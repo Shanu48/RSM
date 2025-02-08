@@ -14,6 +14,10 @@ Linear Regression is one of the most basic algorithms in machine learning. It is
 
 For example, if we have data about house prices, we might want to predict the price of a house based on features like its size, number of rooms, and location. Linear Regression helps us build a model to predict the price from these features.
 
+
+#### 2.2. Simple Linear Regression
+
+Its useful in finding the relationship between two continous variables. It looks for statistical relationship but not deterministic relatioship.
 The formula for **Simple Linear Regression** (with just one feature) is:
 
 $$
